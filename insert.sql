@@ -1,1 +1,1 @@
-insert into persons13 (personID,Name,Address,City) Values ('4','shilu','kadapa','hyd');
+insert into persons22 (ID,Name,Address,City) Values ('11','rani','kadapa','hyd');
