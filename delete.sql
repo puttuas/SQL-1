@@ -1,2 +1,2 @@
-DELETE FROM persons13
-WHERE personID='10';
+DELETE FROM persons22
+WHERE ID='10';
