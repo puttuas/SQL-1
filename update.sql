@@ -1,3 +1,3 @@
-UPDATE persons13
-SET Name = 'king', Address ='nellore'
-WHERE personID = 1;
+UPDATE persons22
+SET Email='lali@gmail.com'
+WHERE personID = 11;
